@@ -77,22 +77,22 @@ namespace Shadowsocks.Properties {
         ///
         ///# Menu items
         ///
-        ///Enable System Proxy=システムの代理を有効にする
+        ///Enable System Proxy=システム プロキシを有効にする
         ///Mode=モード
         ///PAC=PAC
         ///Global=全般
-        ///Servers=サーバ
-        ///Edit Servers...=サーバーを編集する...
+        ///Servers=サーバー
+        ///Edit Servers...=サーバーの編集...
         ///Statistics Config...=統計情報の設定...
         ///Start on Boot=システムと同時に起動
-        ///Forward Proxy...=代理を転送する...
-        ///Allow Clients from LAN=LANからのクライアントを許可する
+        ///Forward Proxy...=フォワードプロキシの設定...
+        ///Allow Clients from LAN=LAN からのアクセスを許可
         ///Local PAC=ローカル PAC
         ///Online PAC=オンライン PAC
-        ///Edit Local PAC File...=ローカル PAC ファイルを編集する...
-        ///Update Local PAC from GFWList=GFWList から、ローカル PACを更新する
-        ///Edit User Rule for GFWList...=利用者規則を編集する...
-        ///Secure Local [rest of string was truncated]&quot;;.
+        ///Edit Local PAC File...=ローカル PAC ファイルの編集...
+        ///Update Local PAC from GFWList=GFWList からローカル PAC を更新
+        ///Edit User Rule for GFWList...=ユーザールールの編集...
+        ///Secure Local  [rest of string was truncated]&quot;;.
         /// </summary>
         internal static string ja {
             get {
